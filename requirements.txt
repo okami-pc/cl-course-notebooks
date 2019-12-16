@@ -1,4 +1,4 @@
-CPython==3.7.4
+CPython==3.8
 IPython==7.8.0
 
 numpy==1.17.2
