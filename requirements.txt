@@ -1,0 +1,6 @@
+CPython==3.7.4
+IPython==7.8.0
+
+numpy==1.17.2
+spacy==2.2.3
+watermark==2.0.2
