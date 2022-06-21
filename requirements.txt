@@ -1,6 +1,6 @@
 
 IPython==7.8.0
 
-numpy==1.17.2
+numpy==1.22.0
 spacy==2.2.3
 watermark==2.0.2
